@@ -26,13 +26,12 @@ Welcome to the **GroMo LeadGen AI Agent**, a multilingual, AI-powered platform d
 
 | Layer            | Technology                                     |
 |------------------|------------------------------------------------|
-| Frontend         | Next.js, TailwindCSS, Redux                    |
+| Frontend         | Next.js, TailwindCSS, TanStack, Recoil         |
 | Backend          | FastAPI (async Python)                         |
-| Auth & DB        | Firebase Auth + Firestore + PostgreSQL         |
+| Auth & DB        | Firebase Auth + Firestore                      |
 | AI Integration   | LangChain, OpenAI, Gemini, Sarvam AI           |
 | Voice AI         | Sarvam AI for Hindi/vernacular voice UX        |
-| Scraping Engine  | Apify, PhantomBuster, Puppeteer                |
-| Cloud Infra      | GCP (Cloud Run, Kubernetes), GitHub Actions    |
+| Scraping Engine  | Puppeteer, Selenium, Scrappy                   |
 | Realtime Comm    | Firebase Realtime DB + Cloud Functions         |
 
 ---
